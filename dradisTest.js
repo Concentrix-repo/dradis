@@ -1,3 +1,3 @@
-var timer = 100;
+var sss = 1
 var a = 1;
 b = 3
